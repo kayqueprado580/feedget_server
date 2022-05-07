@@ -42,6 +42,6 @@ npm run test
 
 ## Deploy
 * Railway
-#### Link: https://feedget-1v25d8uth-kayqueprado580.vercel.app/
+#### Link: https://feedgetserver-production-0181.up.railway.app
 ### Rotas Disponiveis:
  * /feedbacks [POST]
